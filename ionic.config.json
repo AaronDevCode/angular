@@ -1,0 +1,7 @@
+{
+  "name": "hola-mundo-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
